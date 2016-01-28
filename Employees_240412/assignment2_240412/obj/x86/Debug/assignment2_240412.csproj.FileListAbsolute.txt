@@ -1,0 +1,20 @@
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\bin\Debug\assignment2_240412.exe
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\bin\Debug\assignment2_240412.pdb
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.Form1.resources
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.Properties.Resources.resources
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.exe
+C:\Users\Purelilyit\documents\visual studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.pdb
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.exe
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.pdb
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\bin\Debug\assignment2_240412.exe
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\bin\Debug\assignment2_240412.pdb
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.MenuForm.resources
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.Properties.Resources.resources
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.RegistrationForm.resources
+C:\Users\Purelilyit\Downloads\assignment2_240412\assignment2_240412\obj\x86\Debug\assignment2_240412.DisplayForm.resources

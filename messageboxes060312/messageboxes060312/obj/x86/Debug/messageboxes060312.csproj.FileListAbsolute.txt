@@ -1,0 +1,9 @@
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\bin\Debug\messageboxes060312.exe
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\bin\Debug\messageboxes060312.pdb
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\ResolveAssemblyReference.cache
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\messageboxes060312.Form1.resources
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\messageboxes060312.Properties.Resources.resources
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\GenerateResource.read.1.tlog
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\GenerateResource.write.1.tlog
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\messageboxes060312.exe
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\messageboxes060312\messageboxes060312\obj\x86\Debug\messageboxes060312.pdb

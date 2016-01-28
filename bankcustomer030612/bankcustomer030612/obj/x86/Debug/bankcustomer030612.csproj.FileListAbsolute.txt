@@ -1,0 +1,9 @@
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\bin\Debug\bankcustomer030612.exe
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\bin\Debug\bankcustomer030612.pdb
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\ResolveAssemblyReference.cache
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\bankcustomer030612.Form1.resources
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\bankcustomer030612.Properties.Resources.resources
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\GenerateResource.read.1.tlog
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\GenerateResource.write.1.tlog
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\bankcustomer030612.exe
+\\student.gre-ad.gre.ac.uk\usr\en\oj117\documents\visual studio 2010\Projects\bankcustomer030612\bankcustomer030612\obj\x86\Debug\bankcustomer030612.pdb

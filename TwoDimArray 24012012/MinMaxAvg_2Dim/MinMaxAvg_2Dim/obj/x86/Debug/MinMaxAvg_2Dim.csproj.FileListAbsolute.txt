@@ -1,0 +1,9 @@
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\bin\Debug\MinMaxAvg_2Dim.exe
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\bin\Debug\MinMaxAvg_2Dim.pdb
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\ResolveAssemblyReference.cache
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\MinMaxAvg_2Dim.Form1.resources
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\MinMaxAvg_2Dim.Properties.Resources.resources
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\GenerateResource.read.1.tlog
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\GenerateResource.write.1.tlog
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\MinMaxAvg_2Dim.exe
+\\student.gre-ad.gre.ac.uk\usr\en\oa113\documents\visual studio 2010\Projects\MinMaxAvg_2Dim\MinMaxAvg_2Dim\obj\x86\Debug\MinMaxAvg_2Dim.pdb

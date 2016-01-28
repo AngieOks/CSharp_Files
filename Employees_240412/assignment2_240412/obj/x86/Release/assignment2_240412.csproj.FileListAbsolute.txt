@@ -1,0 +1,9 @@
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\bin\Release\assignment2_240412.exe
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\bin\Release\assignment2_240412.pdb
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\assignment2_240412.Form1.resources
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\assignment2_240412.Properties.Resources.resources
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\assignment2_240412.exe
+C:\Users\Purelilyit\Documents\Visual Studio 2010\Projects\assignment2_240412\assignment2_240412\obj\x86\Release\assignment2_240412.pdb

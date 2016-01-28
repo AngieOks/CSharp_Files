@@ -1,0 +1,36 @@
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.exe
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.pdb
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Form1.resources
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Properties.Resources.resources
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.exe
+C:\Documents and Settings\Purelilyit\documenti\visual studio 2010\Projects\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.pdb
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.exe
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.pdb
+L:\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.exe
+L:\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.pdb
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Form1.resources
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Properties.Resources.resources
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.exe
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.pdb
+O:\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.exe
+O:\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.pdb
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Form1.resources
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Properties.Resources.resources
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.exe
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.pdb
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Form1.resources
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\Cinema_131211.Properties.Resources.resources
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.exe
+C:\Documents and Settings\Purelilyit\Documenti\Stuff Temp\Career_University Uk\Greenwich University of\Year 1\Programming Technologies\Programming Assessments\Cinema_131211\Cinema_131211\bin\Debug\Cinema_131211.pdb
